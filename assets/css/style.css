@@ -9133,7 +9133,7 @@ figcaption {
       .slide .content {
         margin-top: 40px; } }
     .slide .content .inner {
-      margin-bottom: 142px; }
+      margin-bottom: 100px; }
       @media only screen and (max-width: 1199px) {
         .slide .content .inner {
           margin-bottom: 40px !important; } }
@@ -9216,6 +9216,13 @@ figcaption {
           .slide .content .inner .description {
             margin-bottom: 40px;
             padding-right: 0; } }
+      .slide .content .link_resumes {
+        font-size: 30px;
+        font-weight: 500;
+        border: 10px solid black;
+        background: black;
+        border-radius : 30px;
+      }
   .slide .social-share-inner-left span.title {
     font-size: 14px;
     text-transform: uppercase;
@@ -9347,7 +9354,7 @@ figcaption {
       .slide .thumbnail.box-gradient .inner img {
         border-radius: 6px; }
   .slide.slider-style-1 {
-    padding-top: 150px; }
+    padding-top: 100px; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .slide.slider-style-1 {
         padding-top: 100px; } }
@@ -9364,6 +9371,8 @@ figcaption {
           padding-top: 120px; } }
     .slide.slider-style-1 .content {
       margin-top: 0; }
+    .slide.slider-style-1 .content .link_resume {
+      margin-top: 50px; }    
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .slide.slider-style-1.box-layout {
         padding-top: 157px; } }
